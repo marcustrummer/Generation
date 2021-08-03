@@ -19,7 +19,7 @@ public class Exercicio04 {
 		d = (r+s)/2;
 		
 		System.out.println("valor de D:" + d);
-
+		entrada.close();
 		
 		
 	}

@@ -24,6 +24,7 @@ public class Exercicio05 {
 		media = (((nota0*2) + (nota1*3) + (nota2*5)) / 10);
 		
 		System.out.println("A media ponderada do aluno: "+ media);
+		entrada.close();
 	}
 
 }

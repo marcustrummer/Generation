@@ -19,6 +19,7 @@ public class Exercicio02 {
 		 dia = (idadeEmDias - (365 * ano) ) % 30;
 		 
 		 System.out.println(ano+" anos\n" + mes+" meses\n" + dia+" dias\n");
+		 entrada.close();
 	}
 
 }

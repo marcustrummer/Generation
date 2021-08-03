@@ -18,6 +18,7 @@ public class Exercicio03 {
 		segundo = (tempo - (hora * 3600)) % 60;
 		
 		System.out.println(hora + "horas\n"+ minuto+"minutos\n"+ segundo+"segundos");
+		entrada.close();
 	}
 
 }

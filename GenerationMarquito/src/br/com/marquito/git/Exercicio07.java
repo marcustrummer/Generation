@@ -24,6 +24,7 @@ public class Exercicio07 {
 		y = ( ((a*f) - (c*d)) / ((a*j) - (b*d)) );
 		
 		System.out.println("Os valores de x e y sao:" + x+ " e " + y+ " respectivamente" );
+		entrada.close();
 		
 		
 	}

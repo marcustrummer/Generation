@@ -22,6 +22,7 @@ public class Exercicio08 {
 
 		
 		System.out.println("O valor do carro eh:" + carroNovo);
+		entrada.close();
 				
 				
 	}

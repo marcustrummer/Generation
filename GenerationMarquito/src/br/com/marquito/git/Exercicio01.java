@@ -21,7 +21,7 @@ public class Exercicio01 {
 		resultado = ((ano*365) + (mes*30) + dia);
 		
 		System.out.println("Resultado: " + resultado);
-		entrada.close();
+		entrada.close();//comentario pa testar
 	}
 
 }

@@ -34,7 +34,7 @@ public class Exercicio02 {
 		System.out.println("Numeros em ordem crescente: "+ num3 + maiorNum2 + maiorNum);
 		System.out.println("Numeros em ordem crescente: "+ maiorNum2);
 		System.out.println("Numeros em ordem crescente: "+ maiorNum);
-		entrada.close();
+		entrada.close();//commit
 	}
 
 }

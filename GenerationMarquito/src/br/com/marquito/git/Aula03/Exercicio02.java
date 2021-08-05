@@ -12,7 +12,7 @@ public class Exercicio02 {
 		int i,num, pares=0, impares=0;
 		
 		System.out.println("Digite 10 numeros");
-		for(i=0;i<10;i++) {
+		for(i=0; i<10 ;i++) {
 			num = entrada.nextInt();
 			if(num%2==0) {
 				pares++;

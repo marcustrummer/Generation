@@ -22,7 +22,7 @@ public class Exercicio06 {
 		media = media / c;
 		
 		System.out.println("Media: " + media);
-		entrada.close();
+
 	}
 
 }

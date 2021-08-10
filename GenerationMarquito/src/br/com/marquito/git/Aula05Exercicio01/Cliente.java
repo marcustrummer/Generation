@@ -11,6 +11,7 @@ public class Cliente {
 	String genero;
 	double renda;
 	int idade;
+	double senha;
 	
 	
 	
